@@ -19,3 +19,5 @@
 - [Convert Town Tools](https://convert.town/tools) - Conversion Tools
 
 - [Tweet Deck](https://tweetdeck.twitter.com/) - Automate your tweets
+
+- [Gofile](https://gofile.io/welcome) - File sharing and storage platform, unlimited and free
